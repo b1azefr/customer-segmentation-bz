@@ -1,16 +1,7 @@
-### **Customer Segmentation App 🧑‍🤝‍🧑|👨‍👨‍👦|👨‍👩‍👧‍👦**
-
-![Customer-Segmentation png](https://github.com/tieugem1997/CustomerSegmentation_Streamlit/assets/39017335/32be23de-981f-4865-9676-6712560f3097)
-
+### **Customer Segmentation App**
 #### **About**
 
 Welcome to our Customer Segmentation App, a dynamic tool developed utilizing **Streamlit**, the renowned open-source Python framework. This application facilitates the detailed analysis and segmentation of customer data, allowing businesses to fine-tune their strategies and grasp the nuances of various market segments more effectively.
-
-#### **Live Link**
-
-Experience the live version hosted on **Streamlit**
-
-[Explore the Customer Segmentation App](https://sentiment-app-tiki.streamlit.app/)
 
 #### **Project Specifications**
 
